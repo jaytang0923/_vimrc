@@ -149,6 +149,9 @@ Bundle 'scrooloose/syntastic'
 Bundle 'drmingdrmer/xptemplate'
 Bundle 'TabBar'
 Bundle 'OmniCppComplete'
+Bundle 'jaytang0923/project.vim'
+Bundle 'vimwiki'
+
 " -----------------------------------------------------------------------------
 "  < ±àÂëÅäÖÃ >
 " -----------------------------------------------------------------------------
